@@ -56,7 +56,7 @@ nouns = [
      "lewis gets lots of bitches",
      "robots r hot",
      "another reason to nerf miner",
-     
+     "Not Barkle loading messages",
     
     ];
 
