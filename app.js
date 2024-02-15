@@ -3,7 +3,7 @@ nouns = [
     "ethel cain top me pls!",
     "this was one of my old projects",
      "i dont like minorities!",
-     "uhh",
+     "barkle barkle bark",
      "i dunno",
      "How to tell if im pregnent", 
      "How to prenounce dog-o-coin",
